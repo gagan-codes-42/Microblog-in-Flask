@@ -7,5 +7,4 @@ Visit the blog at - https://python-web-microblog-axzl.onrender.com
 
 See the demonstration here !
 
-https://github.com/gagan-codes-42/Microblog-in-Flask/assets/149626718/4359d4ea-6938-4011-a853-15f22f7a5411
-
+![ezgif com-video-to-gif (1)](https://github.com/gagan-codes-42/Microblog-in-Flask/assets/149626718/0fee4bd2-6f24-430f-a96b-eb2ee9bd6e4c)
